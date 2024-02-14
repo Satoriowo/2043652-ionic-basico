@@ -1,0 +1,27 @@
+body{
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+form label{
+    display: inline-block;
+    justify-content: center;
+    margin: 10px 10px 10px 80vh;
+}
+
+form input{
+    height: 30px;
+    width: 150px;
+    display: inline;
+    margin: 30px 20px 10px auto; 
+    justify-content: center;
+}
+
+button {
+    display:flex;
+    margin: 20px auto;
+    width: 200px;
+    justify-content: center;
+}
